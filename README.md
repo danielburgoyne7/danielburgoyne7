@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danielburgoyne7
+- 👋 Hi, I’m Daniel Burgoyne
 - 👀 I’m interested in music technology
 - 🌱 I’m currently learning DSP in C/C++ and Max
 - 💞️ I’m looking to collaborate on any weird electronic music and audio programming projects
