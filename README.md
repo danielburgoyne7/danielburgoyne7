@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Burgoyne
 - 👀 I’m interested in music technology
 - 🌱 I’m currently learning DSP in C/C++ and Max
-- 💞️ I’m looking to collaborate on any weird electronic music and audio programming projects
+- 💞️ I’m looking to collaborate on any electronic music and audio programming projects
 - 📫 Email: danielburgoyne7@gmail.com  - - LinkedIn: https://www.linkedin.com/in/daniel-burgoyne-ba4185187/
 
 <!---
