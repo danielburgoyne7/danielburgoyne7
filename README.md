@@ -1,4 +1,5 @@
-Host site for my programming projects.
+This is the host site for my programming projects.
+
 Email: danielburgoyne7@gmail.com  - - LinkedIn: https://www.linkedin.com/in/daniel-burgoyne-ba4185187/
 
 <!---
